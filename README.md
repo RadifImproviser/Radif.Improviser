@@ -27,7 +27,7 @@ Retuning (*scordatura*): Adjusting the tuning of individual strings to create sp
 Microtonal fretting (optional): Some guitarists modify their frets or utilize specialized fretless guitars.
 
 3. Structure of a Radif Improvisation on the Guitar
-A typical performance or improvisation follows a dramatic arc that can be ideally realized on the classical guitar:
+A typical performance or improvisation follows a dramatic arc that can be ideally realized on the sical guitar:
 
 A. The Darâmad (The Opening)
 Function: An introduction to the Dastgah. It establishes the tonal center (the root note, known as *Shāhed*) and puts the listener at ease.
@@ -50,7 +50,7 @@ Function: Emotional resolution. The melody inevitably leads back to the starting
 On the guitar: A soothing, fading motif that typically ends on the root note or a stable interval. 
 
 4. Practical Techniques and Playing Styles on the Guitar
-To achieve a characteristically Persian sound on an classical guitar (whether steel-string or classical), the following playing techniques are helpful:
+To achieve a characteristically Persian sound on an sical guitar (whether steel-string or sical), the following playing techniques are helpful:
 
 Pizzicato and Thumb Technique: Much like the traditional *mezrab* (the plectrum used for the *setar*), a very precise attack—executed either with the fingers or a light plectrum—is often employed to emulate the percussive, crystalline quality of Persian string instruments.
 
@@ -59,7 +59,7 @@ Ornamentation (*Tahrir*): Persian music is rich in embellishments, such as trill
 Drone Playing: The persistent resonance of the root note (tonic) or the fifth in the bass creates the hypnotic, trance-like quality characteristic of modal music.
 
 5. Using the Repertoire as a Foundation
-An authentic Radif improvisation does not emerge in a vacuum. If you wish to improvise on the classical guitar in the style of the Radif, you should:
+An authentic Radif improvisation does not emerge in a vacuum. If you wish to improvise on the sical guitar in the style of the Radif, you should:
 
 Learn the Radif: Transcribe well-known Radif pieces (for example, those by Mirza Abdollah or Abolhasan Saba) for the guitar fretboard.
 
