@@ -1,8 +1,8 @@
 # Radif.Improviser
 A kind of radif improvisation
-Radif Improvisation on the Acoustic Guitar
+Radif Improvisation on the Classical Guitar
 
-The term *Radif* (Persian: ردیف, meaning "row" or "order") refers to the fundamental repertoire of traditional Persian art music. It is not a single piece of music, but rather a comprehensive system comprising hundreds of traditional melodic motifs—known as *gushehs*—organized into various musical modes (*dastgahs* and *avazes*). Originally conceived for classical instruments such as the *tar*, *setar*, or *ney*, as well as for vocal performance, adapting the *Radif* for the acoustic guitar offers a fascinating, albeit challenging, approach to modal and microtonal improvisation.
+The term *Radif* (Persian: ردیف, meaning "row" or "order") refers to the fundamental repertoire of traditional Persian art music. It is not a single piece of music, but rather a comprehensive system comprising hundreds of traditional melodic motifs—known as *gushehs*—organized into various musical modes (*dastgahs* and *avazes*). Originally conceived for classical instruments such as the *tar*, *setar*, or *ney*, as well as for vocal performance, adapting the *Radif* for the classical guitar offers a fascinating, albeit challenging, approach to modal and microtonal improvisation.
 
 1. The Concept of the *Radif* in Persian Music
 Before approaching the guitar, one must understand the underlying concept:
@@ -13,21 +13,21 @@ The *Dastgah* as a Tonal Home: There are seven primary *dastgahs* (such as *Dast
 
 Improvisation (*Badihe-Sazi*): Persian improvisation is not a form of free, atonal, jazz-like jamming. Instead, it is a process of storytelling (*rewayat*) based on these traditional melodic motifs. The improviser draws *gushehs* from memory, varies them, links them together, and consistently returns to the foundational mode. 
 
-2. Challenges with the Acoustic Guitar
-The acoustic guitar differs significantly from Persian lutes such as the *setar* or *tar*. Nevertheless, it is highly suitable for this purpose, provided certain adjustments are made:
+2. Challenges with the Classical Guitar
+The classical guitar differs significantly from Persian lutes such as the *setar* or *tar*. Nevertheless, it is highly suitable for this purpose, provided certain adjustments are made:
 
 Microtonality (*vish*/*bacheh-parde*): Persian music employs intervals that fall precisely between semitone and whole-tone steps (approximately a quarter-tone lower than a major semitone; often referred to as a "neutral second"). These pitches are absent on a standard fretted guitar (which uses equal temperament).
 
 Potential solutions:
 
-Bending: The strings of an acoustic guitar can be intentionally bent to reach these quarter-tone intervals.
+Bending: The strings of an classical guitar can be intentionally bent to reach these quarter-tone intervals.
 
 Retuning (*scordatura*): Adjusting the tuning of individual strings to create specific intervals and open drone tones.
 
 Microtonal fretting (optional): Some guitarists modify their frets or utilize specialized fretless guitars.
 
 3. Structure of a Radif Improvisation on the Guitar
-A typical performance or improvisation follows a dramatic arc that can be ideally realized on the acoustic guitar:
+A typical performance or improvisation follows a dramatic arc that can be ideally realized on the classical guitar:
 
 A. The Darâmad (The Opening)
 Function: An introduction to the Dastgah. It establishes the tonal center (the root note, known as *Shāhed*) and puts the listener at ease.
@@ -50,7 +50,7 @@ Function: Emotional resolution. The melody inevitably leads back to the starting
 On the guitar: A soothing, fading motif that typically ends on the root note or a stable interval. 
 
 4. Practical Techniques and Playing Styles on the Guitar
-To achieve a characteristically Persian sound on an acoustic guitar (whether steel-string or classical), the following playing techniques are helpful:
+To achieve a characteristically Persian sound on an classical guitar (whether steel-string or classical), the following playing techniques are helpful:
 
 Pizzicato and Thumb Technique: Much like the traditional *mezrab* (the plectrum used for the *setar*), a very precise attack—executed either with the fingers or a light plectrum—is often employed to emulate the percussive, crystalline quality of Persian string instruments.
 
@@ -59,7 +59,7 @@ Ornamentation (*Tahrir*): Persian music is rich in embellishments, such as trill
 Drone Playing: The persistent resonance of the root note (tonic) or the fifth in the bass creates the hypnotic, trance-like quality characteristic of modal music.
 
 5. Using the Repertoire as a Foundation
-An authentic Radif improvisation does not emerge in a vacuum. If you wish to improvise on the acoustic guitar in the style of the Radif, you should:
+An authentic Radif improvisation does not emerge in a vacuum. If you wish to improvise on the classical guitar in the style of the Radif, you should:
 
 Learn the Radif: Transcribe well-known Radif pieces (for example, those by Mirza Abdollah or Abolhasan Saba) for the guitar fretboard.
 
