@@ -10,7 +10,9 @@ The *Dastgah* as a Tonal Home: There are seven primary *dastgahs* (such as *Dast
 
 *Gusheh* (Miniature Melodies): A *dastgah* consists of a sequence of 10 to 30 smaller, fixed melodic phrases known as *gushehs*. These often carry evocative names (e.g., *Darâmad* as an opening, *Jameh-Daran*, *Zang-e Shotor*).
 
-Improvisation (*Badihe-Sazi*): Persian improvisation is not a form of free, atonal, jazz-like jamming. Instead, it is a process of storytelling (*rewayat*) based on these traditional melodic motifs. The improviser draws *gushehs* from memory, varies them, links them together, and consistently returns to the foundational mode. 2. Challenges with the Acoustic Guitar
+Improvisation (*Badihe-Sazi*): Persian improvisation is not a form of free, atonal, jazz-like jamming. Instead, it is a process of storytelling (*rewayat*) based on these traditional melodic motifs. The improviser draws *gushehs* from memory, varies them, links them together, and consistently returns to the foundational mode. 
+
+2. Challenges with the Acoustic Guitar
 The acoustic guitar differs significantly from Persian lutes such as the *setar* or *tar*. Nevertheless, it is highly suitable for this purpose, provided certain adjustments are made:
 
 Microtonality (*vish*/*bacheh-parde*): Persian music employs intervals that fall precisely between semitone and whole-tone steps (approximately a quarter-tone lower than a major semitone; often referred to as a "neutral second"). These pitches are absent on a standard fretted guitar (which uses equal temperament).
