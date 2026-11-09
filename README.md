@@ -1,6 +1,7 @@
 # Radif.Improviser
 A kind of radif improvisation
 Radif Improvisation on the Acoustic Guitar
+
 The term *Radif* (Persian: ردیف, meaning "row" or "order") refers to the fundamental repertoire of traditional Persian art music. It is not a single piece of music, but rather a comprehensive system comprising hundreds of traditional melodic motifs—known as *gushehs*—organized into various musical modes (*dastgahs* and *avazes*). Originally conceived for classical instruments such as the *tar*, *setar*, or *ney*, as well as for vocal performance, adapting the *Radif* for the acoustic guitar offers a fascinating, albeit challenging, approach to modal and microtonal improvisation.
 
 1. The Concept of the *Radif* in Persian Music
