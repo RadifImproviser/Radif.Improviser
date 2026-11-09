@@ -44,7 +44,9 @@ On the guitar: This requires a deep understanding of the fretboard to create flu
 D. The Conclusion (*Forood*)
 Function: Emotional resolution. The melody inevitably leads back to the starting point, bringing the cycle to a harmonious close.
 
-On the guitar: A soothing, fading motif that typically ends on the root note or a stable interval. 4. Practical Techniques and Playing Styles on the Guitar
+On the guitar: A soothing, fading motif that typically ends on the root note or a stable interval. 
+
+4. Practical Techniques and Playing Styles on the Guitar
 To achieve a characteristically Persian sound on an acoustic guitar (whether steel-string or classical), the following playing techniques are helpful:
 
 Pizzicato and Thumb Technique: Much like the traditional *mezrab* (the plectrum used for the *setar*), a very precise attack—executed either with the fingers or a light plectrum—is often employed to emulate the percussive, crystalline quality of Persian string instruments.
